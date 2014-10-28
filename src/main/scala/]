@@ -1,4 +1,0 @@
-class Marker(color: String) {
-  println("Creating " + this)
-  override def toString: String = "marker color " + color
-}
